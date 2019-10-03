@@ -1,0 +1,172 @@
+
+.code
+{
+	font-family: "Courier New";
+	font-size: 12pt;
+	color: darkblue;
+}
+
+.largecode
+{
+	font-family: "Courier New";
+	font-size: 16pt;
+	color: darkblue;
+}
+
+
+BODY{
+	padding : 8 8 8 8;
+	text-align :left;
+	font-family : Arial, Verdana, Geneva, Helvetica, sans-serif;
+}
+
+TABLE.center {
+	padding : 4 8 4 8;
+	/*width : 100%;*/
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+TABLE.full {
+	border : 0;
+	width : 80%;
+}
+
+TD.heading{
+	padding : 4 4 4 4;
+	color : black;
+	font-family : Arial, Verdana, Geneva, Helvetica, sans-serif;
+	font-size : 12px;
+	font-weight : bold;
+	background :#336888;
+}
+
+TD.headingcenter{
+	padding : 4 4 4 4;
+	color : black;
+	font-family : Arial, Verdana, Geneva, Helvetica, sans-serif;
+	font-size : 14pt;
+	font-weight : bold;
+	background :#336888;
+	text-align: center;
+}
+
+TH.headingcenter{
+	padding : 4 4 4 4;
+	color : black;
+	font-family : Arial, Verdana, Geneva, Helvetica, sans-serif;
+	font-size : 14pt;
+	font-weight : bold;
+	background :#63A0C5;
+	text-align: center;
+}
+
+TD.data{
+	padding : 4 4 4 4;
+	color : black;
+	font-family : Arial, Verdana, Geneva, Helvetica, sans-serif;
+	font-size : 14pt;
+	background :#ACC5D3;
+}
+
+TD.dataright{
+	padding : 4 4 4 4;
+	color : black;
+	font-family : Arial, Verdana, Geneva, Helvetica, sans-serif;
+	font-size : 14pt;
+	background :#ACC5D3;
+	text-align: right;
+}
+
+TD.datacenter{
+	padding : 4 4 4 4;
+	color : black;
+	font-family : Arial, Verdana, Geneva, Helvetica, sans-serif;
+	font-size : 12px;
+	background :#ACC5D3;
+	text-align: center;
+}
+
+TD.headingblue{
+	padding : 4 4 4 4;
+	color : black;
+	font-family : Arial, Verdana, Geneva, Helvetica, sans-serif;
+	font-size : 12px;
+	font-weight : bold;
+	background :#0080C0;
+}
+
+TD.datablue{
+	padding : 4 4 4 4;
+	color : black;
+	font-family : Arial, Verdana, Geneva, Helvetica, sans-serif;
+	font-size : 12px;
+	background :#A8C5E1;
+}
+
+TD.normal{
+	padding : 4 4 4 4;
+	color : black;
+	font-family : Arial, Verdana, Geneva, Helvetica, sans-serif;
+	font-size : 14px;
+	font-weight : bold;
+}
+
+TD.msg
+{
+	font-size: 10pt;
+	color: red;
+	font-family: Arial;
+	text-align:center;
+}
+
+.button{
+	background: White;
+	right : 100%;
+}
+
+span.red{
+	color :red;
+}
+
+div.green{
+	color : green;
+}
+
+div.red{
+	color : red;
+}
+
+.code
+{
+	font-family: "Tahoma";
+	font-size: "10pt";
+	border:1px solid Black;
+	background:#ACC5D3;
+	padding:10px;
+	margin:20px;
+}
+
+div#imageFloatContainer
+{
+	width: 450px;
+	height: 350px;
+	border: 1px solid #000000;
+}
+
+div#imageFloatContainer img
+{
+	float: left;
+	margin: 10px;
+	border: 1px solid #000000;
+}
+.hcenter
+{
+	margin-left:auto;
+	margin-right:auto;
+	font-family: "Arial";
+	font-size: 16pt;
+	font-weight: bold;
+	text-align:center;
+}
